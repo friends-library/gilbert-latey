@@ -1,5 +1,6 @@
 == Testimonies
 
+[.blurb]
 === The Testimony of George Whitehead, concerning Gilbert Latey.
 
 This our ancient Friend and brother learned obedience through the cross of Christ,
@@ -62,11 +63,14 @@ and for the ease and liberty we do now enjoy, and the merciful Providence we are
 we have great cause to ascribe praise, honour, glory, and dominion to our God,
 and to the Lamb on the throne, forever and ever.
 
+[.signed-section-signature]
 George Whitehead
 
+[.signed-section-context-close]
 London, the 30th of 3rd mo.
 1707.
 
+[.blurb]
 === The Testimony of Richard Hawkins, concerning his dear and well-beloved uncle, Gilbert Latey.
 
 The testimony I have to bear concerning my deceased dear uncle is,
@@ -112,8 +116,10 @@ and to the recompense he hath in store for the righteous,
 which will remain and stand us in stead,
 when we shall be called out of this fading perishing world.
 
+[.signed-section-signature]
 Richard Hawkins.
 
+[.blurb]
 === A Testimony concerning my dear and well beloved husband, Gilbert Latey.
 
 I can truly say he was a man given up to serve God and his people,
@@ -178,6 +184,8 @@ that I believe no woman hath parted with a better husband,
 nor children with a more tender father, or sincerer man:
 it is the Lord`'s will to remove him, and in that I endeavour and desire to be content.
 
+[.signed-section-signature]
 Mary Latey
 
-THE END.
+[.the-end]
+The End.
