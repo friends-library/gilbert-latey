@@ -175,7 +175,7 @@ a town to the westward by the water-side, hardly a mile further,
 and for some time had a meeting there, at William Bond`'s house.
 It being pretty quickly thought fit to remove nearer Hammersmith,
 a place was accordingly provided near the Lime-kilns, by the water-side; called the Hope,
-being about mid-way between the two towns; at which Gilbert Latey was a frequent visiter.
+being about mid-way between the two towns; at which Gilbert Latey was a frequent visitor.
 In a while after, the meeting was brought back to Hammersmith,
 and there continued forty-nine years, and still remains a meeting; during which time,
 he was a frequent attender, and in measure the supporter thereof,
@@ -183,7 +183,7 @@ being as a nursing father thereto; and the Lord blessed his unwearied love.
 
 About this year there was a meeting opened at Barking m Essex, which is still continued;
 and another at Greenwich, in the house which was the king`'s,
-of which Gilbert was a frequent visiter,
+of which Gilbert was a frequent visitor,
 often going in great hazard from the rude people,
 by whom both he and other Friends were often sorely stoned; and when Friends were met,
 they would throw stones through the windows, and sometimes injured several;
@@ -568,6 +568,9 @@ and according to his normal manner, visited them in the jails,
 and endeavoured that nothing should be lacking for their support, or,
 according to his power, to procure their enlargement.
 
+[.embedded-content-document.testimony]
+--
+
 +++[+++Editor`'s Note: It will doubtless be interesting to our readers,
 to have a more particular account of this solemn visitation of divine judgment.
 The period at which it broke out, was one of very severe persecution.
@@ -591,7 +594,7 @@ that the disease first broke out in Bear-binder`'s lane,
 in a house adjoining that in which Edward Brush resided,
 a Friend who had just previously been banished from his native country for his religion.
 
-"`Among the many calamities with which the Almighty
+Among the many calamities with which the Almighty
 is pleased to visit the children of men,
 in order to reduce them to a just sense of their
 own weakness and entire dependence upon him,
@@ -619,7 +622,7 @@ upon narrow inspection were assured that it was indeed
 the plague with all its terrifying particulars,
 and that it threatened a general infection.
 
-"`The people began now to be alarmed all over the town;
+The people began now to be alarmed all over the town;
 the usual number of burials within the bills of mortality
 for a week were generally about 240 to 300,
 but from the 17th to the 24th of January,
@@ -629,7 +632,10 @@ and people began to look upon the danger as good as over;
 but in May the bills greatly increased, and the weather becoming hot,
 the infection spread again in a dreadful manner.
 
-"`I lived, says the author, without Aldgate,
+[.small-break]
+'''
+
+"`I lived,`" says the author, "`without Aldgate,
 and as the distemper had not reached to that side of the city,
 our neighbourhood continued easy; but at the other end the consternation was very great,
 and the nobility and gentry thronged out of the town
@@ -642,7 +648,7 @@ This was a very melancholy prospect; indeed there was nothing else of moment to 
 It filled my mind with very serious thoughts of the misery that was coming upon the city,
 and the unhappy condition of those that would be left in it.
 
-"`By the end of July the contagion had spread to a great degree:
+By the end of July the contagion had spread to a great degree:
 Sorrow and sadness sat upon every face; and though some parts were not yet overwhelmed,
 all looked deeply concerned.
 London might well be said to be all in tears.
@@ -658,7 +664,7 @@ especially in the first part of the visitation for towards the latter
 end people did not so much concern themselves for the loss of their friends,
 expecting that themselves should be summoned the next hour.
 
-"`It was a time of very unhappy breaches among us in matters of religion,
+It was a time of very unhappy breaches among us in matters of religion,
 divisions and separate opinions prevailed.
 The Church of England was lately restored,
 and the Presbyterians and other professions had set up their meetings for worship,
@@ -677,11 +683,11 @@ would sweeten our temper, remove our animosities,
 and bring us to see with different eyes.
 On the other side of the grave we shall all be brethren again.
 
-"`The inns of court were all shut up, there were few lawyers to be seen in the city,
+The inns of court were all shut up, there were few lawyers to be seen in the city,
 indeed there was no need of them, for quarrels and divisions about interest had ceased;
 every body was at peace.
 
-"`It was also worthy of observation, as well as fruitful of instruction,
+It was also worthy of observation, as well as fruitful of instruction,
 to observe with what alacrity the people of all persuasions embraced
 the opportunities they had of attending upon the public worship,
 and other appointed times of devotion, as humiliations,
@@ -692,14 +698,14 @@ not to the very door of the largest.
 There was also daily prayers appointed morning and evening,
 at which the people attended with uncommon devotion.
 
-"`All plays and interludes which had lately began to increase among us, were forbidden;
+All plays and interludes which had lately began to increase among us, were forbidden;
 the gaming-tables, public dancing-rooms and music houses,
 which had multiplied and began to debauch the manners of the people,
 were shut up and-suppressed, finding indeed no trade;
 for the minds of the people were generally humbled and agitated with other things:
 death was before their eyes, and every body began to think of their graves.
 
-"`The infection still gradually increased till the middle of August,
+The infection still gradually increased till the middle of August,
 when there died a thousand a day, by account of the weekly bills,
 though they never gave a full account by many thousands;
 many of the parish officers were taken sick themselves
@@ -708,10 +714,10 @@ The parish of Stepney alone had within the year, one hundred and sixteen sextons
 gravediggers, and carriers of the dead, etc.
 Indeed the work was not of a nature to allow them
 leisure to take an exact tale of the dead bodies,
-which were all thrown together ui the dark in a pit,
+which were all thrown together in the dark in a pit,
 to which no man could come near without the utmost peril.
 
-"`I had, says the author, the care of my brother`'s house,
+I had, says the author, the care of my brother`'s house,
 which obliged me sometimes to go abroad.
 In these walks I had dismal scenes before my eyes, as, particularly,
 of persons falling dead in the streets, shrieks of women,
@@ -725,20 +731,20 @@ Death, Death, Death,`' which struck me with horror and a chilness in my very blo
 There was nobody to be seen in the whole street, neither did any window open,
 for people had no curiosity now in any case.
 
-"`Death did not now hover over every one`'s head only,
+Death did not now hover over every one`'s head only,
 but looked into their houses and chambers, and even stared in their very faces;
 and though there was some stupidity and dulness of mind,
 yet there was a great deal of just alarm sounded in the inmost soul.
 Many consciences were awakened; many hard hearts melted into tears;
 many a penitent confession was made of crimes long concealed.
-People might be heard even m the streets as we passed along, calling upon God for mercy,
+People might be heard even in the streets as we passed along, calling upon God for mercy,
 through Jesus Christ, and saying: I have been a thief; I have been an adulterer;
 I have been a murderer, and the like;
 and none dared stop to make inquiry into such things,
 or to administer comfort to the poor creature,
 who in the anguish both of soul and body thus cried out.
 
-"`Many were the warnings that were then given by dying penitents to others,
+Many were the warnings that were then given by dying penitents to others,
 not to put off their repentance to a day of distress,
 and that such a time of calamity as this was no time for repentance.
 I wish, says the author,
@@ -748,7 +754,7 @@ when in the height of their agonies and distress,
 and that I could make him that reads this hear, as I imagine, I now hear them,
 for the sound seems still to ring m my ears.
 In the beginning of September the number of burials increasing,
-the church-wardens of Aldgate parish`' ordered a large pit to be dug,
+the church-wardens of Aldgate parish ordered a large pit to be dug,
 to hold all the dead who might die in a month,
 it was about forty feet long and sixteen broad.
 Some blamed the church-wardens for allowing such a frightful gulf to be dug;
@@ -756,7 +762,7 @@ nevertheless in two weeks they had thrown more than eleven hundred bodies into i
 when they were obliged to fill it up,
 as the bodies were come within six feet of the surface.
 
-"`I must not omit mentioning the disposition of the people of that day,
+I must not omit mentioning the disposition of the people of that day,
 with respect to their charity to the poor,
 which indeed was very large both m a public and a private way.
 Some pious ladies were so zealous in this good work,
@@ -775,7 +781,7 @@ those that hazard their lives to give to the poor,
 and to comfort and assist them in such a misery as this,
 may hope to be protected therein.
 
-"`From the middle of August to the middle of September
+From the middle of August to the middle of September
 the infection still increased and spread itself,
 with an irresistible fury.
 It was reckoned, that during that time there died no less than sixteen hundred a day,
@@ -800,7 +806,7 @@ and the earnestness and affectionate attention they showed to what they heard,
 made it manifest what value people would put upon the worship of God,
 if they thought every day they attended would be their last.
 
-"`It was in the height of this despair, that it pleased God to stay his hand,
+It was in the height of this despair, that it pleased God to stay his hand,
 and to slacken the fury of the contagion,
 in a manner as surprising as that of its beginning,
 and which demonstrated it to be his own particular hand above the agency of means.
@@ -817,7 +823,7 @@ It was wonderful!
 The physicians were surprised, wherever they visited, to find their patients better,
 and in a few days every body was recovering.
 
-"`Nor was this by any medicine found out, or any new method of cure discovered;
+Nor was this by any medicine found out, or any new method of cure discovered;
 it was evidently from the secret invisible hand of him that had at first sent this disease,
 as a judgment upon us.
 Let the philosophers search for reasons in nature to account for it,
@@ -829,9 +835,12 @@ who appeared very sensible and thankful to God for their unexpected deliverance:
 Yet I must own, that as for the generality of the people,
 it might too justly be said of them, as was said of the children of Israel,
 after they had been delivered from the host of Pharaoh, that they sung his praise,
-but soon forgot his works.
+but soon forgot his works.`"
 
-"`The author, who was preserved unhurt with his whole family,
+[.small-break]
+'''
+
+The author, who was preserved unhurt with his whole family,
 during the time of the sickness,
 gives a particular account of the reasonings and fears which affected his mind,
 before he could come to a fixed conclusion, whether to stay,
@@ -850,7 +859,7 @@ and acted contrary to these intimations, which he believed to be divine,
 it was flying from God, who could cause his justice to overtake him,
 when and where he thought fit.
 
-"`But what finally fixed him in a resolution to stay,
+But what finally fixed him in a resolution to stay,
 and cast himself entirely upon the protection and good pleasure of the Almighty was,
 that at a time when his thoughts were more than commonly serious upon this weighty subject,
 turning over the Bible which lay before him, he cried out, '`Well, I know not what to do,
@@ -869,9 +878,12 @@ but it shall not come near you.
 Only with your eyes shall you behold and see the reward of the wicked.
 Because you have made the Lord which is your refuge, even the Most High your habitation:
 There shall no evil befall you,
-neither shall any plague come nigh your dwelling,`' etc.`"
+neither shall any plague come nigh your dwelling,`' etc.]
 
-Returning to the Life of Gilbert Latey.]
+--
+
+[.offset]
+Returning to the Life of Gilbert Latey.
 
 In this time of sore exercise, he was also engaged in visiting Friends in their families,
 as well those under sickness, as others whom the Lord had in measure restored again;
@@ -881,7 +893,7 @@ and accordingly they sent money to be distributed,
 a part of which was allotted to the poor people who were ill with the sickness,
 but more especially to those who were shut up in
 their houses in the out-parishes without Temple Bar.
-This service was committed to tho care of Gilbert, and one other Friend,
+This service was committed to the care of Gilbert, and one other Friend,
 to visit the poor, particularly those who were confined to their own houses,
 and as near as they could they neglected none,
 but went and administered the charity to them, many of whom had running sores upon them;
@@ -1077,8 +1089,13 @@ for which he wrote the following paper;
 and being communicated to several Friends of the same trade,
 they were well satisfied with it, and desired it might be printed, as follows:
 
+[.embedded-content-document.paper]
+--
+
+[.letter-heading]
 A Salutation or Testimony of true and brotherly love, unto all who are concerned therein.
 
+[.salutation]
 Dear Friends,
 
 To whom the truth of God has appeared,
@@ -1161,12 +1178,16 @@ the Lord knows.
 So in the blessed unchangeable truth of God, we salute you all, dear brethren,
 and in which we remain in love unfeigned,
 
+[.signed-section-closing]
 Your dear friends and brethren,
 
+[.signed-section-signature]
 Gilbert Latey, John Bowlover, William Walker, Thos.
 Taunton, Edw.
 Eldershaw, William Taylby, William Tillit, Jolm Pearce, William Brown, Henry Day,
 Degory Marshal, Jolm Thorpe.
+
+--
 
 I now come to give some account of Gilbert`'s service in attending King Charles,
 which he did several times; but my intention being brevity,
@@ -1330,7 +1351,7 @@ or for anything by him said or done.
 Having frequent opportunities to address himself to them,
 and also the favour of some who were their equals, and acquaintance,
 to speak to them on his and the Friends`' behalf, and the goods, though long detained,
-not being sold,`"`'he at last so far prevailed,
+not being sold, he at last so far prevailed,
 that the lord Mordaunt gave him a warrant, that the horse and goods thus taken,
 should be restored to the owners; and superseding the former warrant for distress,
 empowered Gilbert and the Friends to take the horse
@@ -1349,7 +1370,7 @@ For being a man of ability, the justices and informers were willing,
 when they had opportunity, to fix what they were permitted to take,
 either by law or otherwise, upon him; by reason of which,
 there were at one time warrants against him for several hundred pounds;
-but the Lord being good to liim, even as to his servant of old,
+but the Lord being good to him, even as to his servant of old,
 made the enemies ready to say as their master did, "`Does he serve God for nought;
 has he not set a hedge about him, and all that he has?`"
 For, notwithstanding their contrivance and subtlety,
@@ -1396,6 +1417,10 @@ Having at all times easy access to him,
 and also the favour at any time when there might be occasion, to write to him:
 in the year 1683 he wrote to the bishop, and received the following answer:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Mr. Latey,
 
 I had acknowledged the receipt of your civil letter before now,
@@ -1414,11 +1439,16 @@ and that we may all enjoy one another in heaven.
 I am now somewhat indisposed: writing is irksome to me.
 God Almighty bless you;
 
+[.signed-section-closing]
 I am your truly loving friend,
 
+[.signed-section-signature]
 Thomas, Exon.
 
+[.signed-section-context-close]
 Exeter, March the 24th, 1683-4.
+
+--
 
 Soon after King James came to the crown,
 Gilbert was one who presented the king with a list of 1500 Friends,
@@ -1429,6 +1459,9 @@ took great care and unwearied pains to procure a stop to be put to these violent
 and obtained, by the king`'s commission,
 the following order from the then lord Treasurer:
 
+[.embedded-content-document.letter]
+--
+
 After my hearty commendations,
 these are to authorize and desire you to forbear making
 forth any process against any the persons hereunto annexed,
@@ -1437,11 +1470,13 @@ the three first sheets having four columns of names, the fourth only two,
 till the next term; and if any process is already made forth,
 you are immediately to supersede the same; and for so doing this shall be your warrant.
 
-Whitehall Treasury Chamber, the 4th of March, 1685
+[.signed-section-context-close]
+Whitehall Treasury Chamber, the 4th of March, 1685, Rochester.
 
-Rochester.
-
+[.signed-section-context-close]
 To my very loving friend, the Clerk of the Pipe.
+
+--
 
 After the aforesaid warrant,
 an order was obtained to lay these cases before Sir Robert Sawyer, the attorney-general,
@@ -1471,7 +1506,7 @@ Friends were not free from sufferings; for,
 notwithstanding so great a number were thus discharged,
 abundance were still continued in prison; some, for not coming to the public worship,
 or as they called it, for not coming to church,
-were taken up and imprisoned on the writ de excommunicato capiendo,^
+were taken up and imprisoned on the __writ de excommunicato capiendo,__^
 footnote:[A writ ordering the imprisonment of an excommunicated
 person until he or she submitted to the church.]
 and others who in obedience to Christ`'s command,
@@ -1486,8 +1521,11 @@ Gilbert was one who attended the king with a petition on their behalf.
 It had so good effect, as to obtain their liberty and relief,
 as may be perceived by the following report from the attorney-general:
 
+[.embedded-content-document.legal]
+--
+
 I have considered of this petition, and of the several cases annexed.
-For those that are in prison for not coming to church, or upon excommunicato capiendo,
+For those that are in prison for not coming to church, or upon _excommunicato capiendo,_
 for the same, I can discharge upon a former warrant directed to me,
 which I have offered to do;
 but the far greater number of those in the schedule are imprisoned until they
@@ -1503,9 +1541,13 @@ the easiest way to them will be by a warrant under his majesty`'s signet,
 to acknowledge satisfaction, and thereupon to set them at liberty; and by like warrant,
 the persons imprisoned upon an excommunication, may be set at liberty.
 
+[.signed-section-signature]
 Robert Sawyer.
 
+[.signed-section-context-close]
 May the 5th, 1686.
+
+--
 
 Gilbert again attended the king,
 to lay before him the hardships our Friends underwent by mercenary informers;
@@ -1522,7 +1564,10 @@ and made great spoil of Friends`' goods, as mentioned in the petition,
 a warrant was thereupon granted by the king, for the examination thereof;
 a copy whereof follows:
 
-"`Whereas several persons called Quakers, have exhibited a petition to his majesty,
+[.embedded-content-document.legal]
+--
+
+Whereas several persons called Quakers, have exhibited a petition to his majesty,
 complaining of several misdemeanours and irregularities of several informers;
 and his majesty having been pleased to refer the examination thereof to us,
 by warrant from the right honourable the earl of Middleton,
@@ -1532,14 +1577,19 @@ being the fourth day of June next ensuing, at four of the clock in the afternoon
 at Mr. Graham`'s chamber, in Clifford`'s Inn; and we desire you, the persons undernamed,
 to be present then, in order to our proceeding in the said affair.
 
+[.signed-section-closing]
 Given under our hands, the last day of May, 1686.
 
+[.signed-section-signature]
 Richard Graham, per Burton.
 
+[.signed-section-context-close]
 To Jeffery Nightingale, Esq.
 Peter Lugg, Esq.
 Capt.
 John Hilton.
+
+--
 
 Friends also appearing, made good their allegations and charges,
 so that the informers received a just rebuke,
@@ -1636,11 +1686,16 @@ In the year 1694, being the fourth of the reign of King William and Queen Mary,
 Gilbert attended the king at Kensington, with the following petition,
 which had so good effect, that one hundred Friends were discharged.
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To the King.
 
 The case and request of the people called Quakers, in behalf of many of them,
 who are present sufferers for conscience sake, humbly presented:
 
+[.offset]
 Showing:
 
 That as the God of all our mercies has preserved us,
@@ -1660,8 +1715,8 @@ tending to the ruin of many families; for these causes of conscience:
 chiefly on contempts (as adjudged) for not answering on oath in cases of tithes,
 when sued in the Exchequer, and also for not answering upon oath,
 when prosecuted in the Ecclesiastical Courts for tithes, church rates,
-etc. whereupon they proceed to excommunication, and by signifcavits,
-procure writs de excommunicato capiendo,
+etc. whereupon they proceed to excommunication, and by _signifcavits,_
+procure__ writs de excommunicato capiendo,__
 and sometimes justices`' warrants to imprisonment.
 
 We therefore humbly remind the king of the great severities
@@ -1671,26 +1726,31 @@ when it pleased God to move the hearts of the kings and
 governments to show compassion and favour to us,
 whereof these are some instances:
 
-First.
+[.numbered]
+_First._
 By King Charles II. his proclamation of grace in 1661,
 whereby many of our Friends were released out of prisons.
 
-Secondly.
+[.numbered]
+_Secondly._
 By his letters patent, or pardon in 1672,
 pursuant to his declarations of indulgence to tender consciences in the same year.
 
-Thirdly.
+[.numbered]
+_Thirdly._
 By an act of parliament, the 25th of Charles II., chap.
 5, entitled, '`An Act for the King`'s Majesty`'s most gracious, general,
 and free pardon,`' pardoning contempts, etc. against the king;
 whereby many also of the said people were discharged and released out of prisons.
 
-Fourthly.
+[.numbered]
+_Fourthly._
 Also by King James II., many were released out of prisons,
 and relieved by several commissions, and two general proclamation pardons,
 the one in 1685, and the other in 1688.
 
-Fifthly.
+[.numbered]
+_Fifthly._
 And also by an act of '`gracious, general,
 and free pardon,`' in the second year of King William and Queen Mary,
 several were discharged from contempts and imprisonments.
@@ -1704,8 +1764,11 @@ and compassion towards the said sufferers,
 for their lawful ease and relief from the present confinements,
 as in his wisdom and clemency shall seem most fitting and convenient.
 
+[.signed-section-context-close]
 Signed in behalf of the said people and sufferers,
 and delivered to the king at Kensington, in the second month, called April, 1695
+
+--
 
 In consequence of this application, about one hundred Friends who were prisoners,
 were soon after discharged by an act of indemnity,
@@ -1787,7 +1850,7 @@ to see the adversaries of Friends thus disappointed; all which being the Lord`'s
 was marvellous in the eyes of his servants, who attended there and saw the same,
 ascribing the praise to him alone.
 
-The bill being then ordered to be carried before the Lords,
+The bill being then ordered to be carried before the Lord`'s,
 the Friends concerned went on in faith,
 and gave their attendance on the members of that house,
 and laid the reasonableness of the bill before many of them;
@@ -1797,7 +1860,7 @@ and make way in the hearts of these great ones, and by his secret and invisible 
 wrought for the carrying on what had been thus far prosperously advanced.
 And though the labour of Gilbert and his companions, in their attendance,
 was some months, from the time they went to the king,
-until it was quite passed the House of Lords, the faith of some never failed,
+until it was quite passed the House of Lord`'s, the faith of some never failed,
 nor were they dismayed, but felt that which supported and bore them up under all,
 and crowned their labours by obtaining ease for the Lord`'s people;
 whose prayers were put up to the great God for his blessing to attend those his servants,
@@ -1809,10 +1872,15 @@ I shall here add one account more,
 it being an application drawn up and signed by Friends, and delivered to King William,
 by Gilbert and some Friends appointed; and is as follows:
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To King William the Third, over England, etc.
 
 The grateful acknowledgment of the people commonly called Quakers, humbly presented.
 
+[.salutation]
 May it please the King,
 
 Seeing the most high God, who rules in the kingdoms of men,
@@ -1837,11 +1905,17 @@ to prosecute all these his just and good intentions,
 that his days may be happy and peaceable; and hereafter,
 he may partake of a lasting crown that will never fade away.
 
+[.signed-section-context-close]
 Signed +++[+++by a great many]
 in behalf of the said people--London, the 7th of the 11th month, called January, 1697.
 
+--
+
 Upon delivering the aforesaid paper at Kensington, the 1st of the twelfth month, 1697-8,
 Gilbert addressed him as follows:
+
+[.small-break]
+'''
 
 "`May it please the King,
 The favours received from the king can never be sufficiently acknowledged;
@@ -1852,13 +1926,18 @@ and that the Lord may bless and preserve him to the end of his days;
 and we are glad of this opportunity to acknowledge the favours and kindness,
 which we have received from you, which have been many:
 the Lord reward you for them all!`"
-The king replied, "`I thank you, and I desire the continuance of your prayers for me.`"
+The king replied, "`I thank you, and I desire the continuance of your prayers for me.
 
-* * *
+[.asterism]
+'''
 
+[.embedded-content-document.testimony]
+--
+
+[.blurb]
 === A Testimony of Gilbert Latey, Which He Desired Might Be Communicated to the Women`'s Meeting in London.
 
-"`In early days, about three or four years after the settlement of the men`'s meeting,
+In early days, about three or four years after the settlement of the men`'s meeting,
 which was in an upper room at the then Bull and Mouth meeting-house, near Aldersgate,
 London; Gerard Roberts, Amor Stoddard, John Osgood, Richard Davis, and others,
 being about fifteen or more,
@@ -1921,11 +2000,16 @@ but calling to mind the beginning and establishing of this meeting,
 which many now know little of, I was the more induced to leave these few lines;
 who am your ancient friend and truly loving brother,
 
+[.signed-section-signature]
 Gilbert Latey.
 
+[.signed-section-context-close]
 Hammersmith, the 22nd of the 6th mo., 1705.
 
-* * *
+--
+
+[.embedded-content-document.epistle]
+--
 
 A Salutation of endeared love to the whole flock of God,
 but in a more particular manner to the Friends and brethren
@@ -1943,11 +2027,16 @@ and mercy overshadow the judgment seat, where peace and good-will may he felt to
 in which the Lord`'s presence will preserve you all;
 and this has been the breathing desire of your ancient friend and brother,
 
+[.signed-section-signature]
 Gilbert Latey.
 
+[.signed-section-context-close]
 Hammersmith, the 25th of the 6th mo., 1705.
 
-* * *
+--
+
+[.asterism]
+'''
 
 Gilbert married Mary, the only daughter of John and Ann Feilder, of Kingston-upon-Thames,
 in the county of Surrey, by whom he had eleven children,
