@@ -632,7 +632,10 @@ and people began to look upon the danger as good as over;
 but in May the bills greatly increased, and the weather becoming hot,
 the infection spread again in a dreadful manner.
 
-I lived, says the author, without Aldgate,
+[.small-break]
+'''
+
+"`I lived,`" says the author, "`without Aldgate,
 and as the distemper had not reached to that side of the city,
 our neighbourhood continued easy; but at the other end the consternation was very great,
 and the nobility and gentry thronged out of the town
@@ -832,7 +835,10 @@ who appeared very sensible and thankful to God for their unexpected deliverance:
 Yet I must own, that as for the generality of the people,
 it might too justly be said of them, as was said of the children of Israel,
 after they had been delivered from the host of Pharaoh, that they sung his praise,
-but soon forgot his works.
+but soon forgot his works.`"
+
+[.small-break]
+'''
 
 The author, who was preserved unhurt with his whole family,
 during the time of the sickness,
@@ -1465,10 +1471,7 @@ till the next term; and if any process is already made forth,
 you are immediately to supersede the same; and for so doing this shall be your warrant.
 
 [.signed-section-context-close]
-Whitehall Treasury Chamber, the 4th of March, 1685
-
-[.signed-section-context-close]
-Rochester.
+Whitehall Treasury Chamber, the 4th of March, 1685, Rochester.
 
 [.signed-section-context-close]
 To my very loving friend, the Clerk of the Pipe.
@@ -1574,6 +1577,7 @@ being the fourth day of June next ensuing, at four of the clock in the afternoon
 at Mr. Graham`'s chamber, in Clifford`'s Inn; and we desire you, the persons undernamed,
 to be present then, in order to our proceeding in the said affair.
 
+[.signed-section-closing]
 Given under our hands, the last day of May, 1686.
 
 [.signed-section-signature]
@@ -1691,6 +1695,7 @@ To the King.
 The case and request of the people called Quakers, in behalf of many of them,
 who are present sufferers for conscience sake, humbly presented:
 
+[.offset]
 Showing:
 
 That as the God of all our mercies has preserved us,
@@ -1909,9 +1914,10 @@ in behalf of the said people--London, the 7th of the 11th month, called January,
 Upon delivering the aforesaid paper at Kensington, the 1st of the twelfth month, 1697-8,
 Gilbert addressed him as follows:
 
-[quote]
-____
-May it please the King,
+[.small-break]
+'''
+
+"`May it please the King,
 The favours received from the king can never be sufficiently acknowledged;
 but this we can truly say, we have prayed to Almighty God to bless and preserve you;
 and now being returned again in peace and safety, we rejoice to see the king`'s face,
@@ -1921,7 +1927,6 @@ and we are glad of this opportunity to acknowledge the favours and kindness,
 which we have received from you, which have been many:
 the Lord reward you for them all!`"
 The king replied, "`I thank you, and I desire the continuance of your prayers for me.
-____
 
 [.asterism]
 '''
