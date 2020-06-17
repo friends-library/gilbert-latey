@@ -570,7 +570,7 @@ and according to his wonted manner, visited them in the jails,
 and endeavoured that nothing should be wanting for their support, or,
 according to his power, to procure their enlargement.
 
-[.embedded-content-document.testimiony]
+[.embedded-content-document.testimony]
 --
 
 +++[+++Editor`'s Note: It will doubtless be interesting to our readers,
@@ -1092,7 +1092,7 @@ for which he wrote the following paper;
 and being communicated to several Friends of the same trade,
 they were well satisfied with it, and desired it might be printed, as follows:
 
-[.embedded-content-document.espistle]
+[.embedded-content-document.epistle]
 --
 
 [.letter-heading]
